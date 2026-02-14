@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "一目惚れかき消して",
+  "base_artist": "リアクション ザ ブッタ",
+  "createdAt": "2026-02-14T03:33:47.427417Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一目惚れかき消して",
+      "artist": "リアクション ザ ブッタ",
+      "has_synced": false,
+      "path": "select/pl_01_一目惚れかき消して_リアクション_ザ_ブッタ.txt"
+    }
+  ]
+}
